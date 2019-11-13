@@ -1,2 +1,2 @@
-# sang
-For Learn And Reserch
+# Sang
+For Learn And Reserch.
