@@ -465,7 +465,6 @@ http://live.streamingfast.net/osmflivech12.m3u8
 http://61.58.60.230:9319/live/10.m3u8
 #EXTINF:-1 ,大愛二台
 http://61.58.60.230:9319/live/191.m3u8
-
 #EXTINF:-1 ,凤凰中文
 http://59.125.101.122:8080/live/phoenix7188.m3u8
 #EXTINF:-1 ,香港电台
@@ -504,8 +503,6 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 ,阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-
-
 #EXTINF:-1 ,CNN NEWS
 http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.m3u8
 #EXTINF:-1 ,SKY NEWS
@@ -566,10 +563,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1 ,韩国Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 ,泰国DDTV
-http://203.156.63.20:1935/live/ddtv/playlist.m3u8
-#EXTINF:-1 ,越南ANTVHD
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 ,美国中文台
 http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 ,美国芝加哥WGN9频道HD
@@ -898,10 +891,6 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
 #EXTINF:-1 ,罗马尼亚Iasi TV Life
 http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF:-1 ,罗马尼亚Informatia TV
-http://s1.streamnet.ro:8014/stream.m3u8
-#EXTINF:-1 ,罗马尼亚STV
-http://s2.streamnet.ro:8035/stream.m3u8
 #EXTINF:-1 ,罗马尼亚TV Kit
 http://webmobile.xdev.ro:81/tv9/playlist.m3u8
 #EXTINF:-1 ,摩尔多瓦Acasa TV
